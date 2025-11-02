@@ -1,0 +1,5 @@
+{
+  "name": "AniVerse: Anime Search",
+  "description": "A sleek and responsive two-page web application that allows users to search for anime, view detailed information, and discover the latest releases, powered by the Jikan API.",
+  "requestFramePermissions": []
+}
